@@ -4,6 +4,7 @@ import os
 project_name="visa-approval-system"
 
 list_of_files = [
+    f"{project_name}/__init__.py"
     f"{project_name}/components/__init__.py",
     f"{project_name}/components/data_ingestion.py",
     f"{project_name}/components/data_validation.py",
